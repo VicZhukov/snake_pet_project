@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a165a8bb-673c-4f70-aa85-ca91cd578537" name="Changes" comment="snake project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MainWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Victor/Desktop/GitHub/java_learn",
+    "last_opened_file_path": "C:/Users/Victor/Desktop/GitHub/SnakeGame",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

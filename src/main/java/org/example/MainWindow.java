@@ -8,7 +8,7 @@ public class MainWindow extends JFrame {
         setTitle("Snake");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(320, 340);
-        setLocation(490, 180);
+        setLocation(485, 180);
         add(new GameField());
         setVisible(true);
     }
